@@ -1,0 +1,22 @@
+# deps & build
+node_modules/
+dist/
+.output/
+.vinxi/
+.tanstack/
+.wrangler/
+
+# secrets — never commit
+.env
+.env.*
+!.env.example
+.dev.vars
+!.dev.vars.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.log

@@ -101,6 +101,14 @@ flowchart LR
   2. **Unified internal portal**: bringing all internal APIs (OnTime attendance, ERPNext, Lystloc, …) into one dashboard to cut daily time spent switching tools.
   3. **WhatsApp Business without a third party**: direct Meta Cloud API integration in a few steps, with no middleman cost.
 
-## 7. Open questions
-- TODO(karan): Hero one-liner. Draft: *"I turn messy factory operations into connected software: ERPNext, integrations, and AI that actually saves time."*
-- TODO(karan): For each case study, which numbers can you share? (years of data migrated, hours saved per week, ₹ saved vs. third-party WhatsApp tools)
+- **Hero line:** *"Factories run on Excel, Tally and hope. I replace two of those."*
+
+## 7. Case-study disclosure rules
+| ✅ Share | ❌ Never share |
+|---|---|
+| Years of data migrated | Company-specific / vital business data |
+| Cost saved (₹ or %) | Internal process flows, approval chains |
+| Time to build | Credentials, endpoints, internal URLs, screenshots with real data |
+| Generic architecture (e.g. Tally → transform → ERPNext) | Customer/vendor names without permission |
+
+Diagrams in case studies show **common, industry-standard flows** only.
